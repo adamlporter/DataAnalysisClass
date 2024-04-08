@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+jupyter-book
+bokeh
+bs4
+requests
+twarc
+git+https://github.com/maria-antoniak/little-mallet-wrapper.git
+scikit-learn
+spacy
+regex
+seaborn
